@@ -1,5 +1,5 @@
 package gomodtwo
 
-func Version() string {
-	return "gomodtwo v1.0.0"
+func VersionName() string {
+	return "gomodtwo v2.0.0"
 }

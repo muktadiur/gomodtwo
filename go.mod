@@ -1,1 +1,1 @@
-module github.com/muktadiur/gomodtwo
+module github.com/muktadiur/gomodtwo/v2
